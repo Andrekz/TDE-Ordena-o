@@ -22,6 +22,12 @@ Aluno: André Vinícius Martins de Souza Acosta de Jesus
 | 2     | Bubble/Selection/Cocktail/Comb/Bucket/Gnome (0) | -                | -                | -                           | -  |
 | 3     | Selection Sort (10)                             | Comb Sort (18)   | Bucket Sort (63) | Bubble/Cocktail/Gnome (190) | -  |
 
+Vetor 1: Selection Sort foi o mais eficiente, seguido de Bucket Sort e Comb Sort. Bubble e Cocktail Sort trocaram muitos elementos.
+
+Vetor 2: Todos os algoritmos que não precisaram trocar elementos empataram (0 trocas).
+
+Vetor 3: Selection Sort e Comb Sort se saíram melhor, Bucket e Bubble/Cocktail Sort foram menos eficientes.
+
 
 # Ranking por menos iterações (mais eficiente nos laços)
 
@@ -30,6 +36,12 @@ Aluno: André Vinícius Martins de Souza Acosta de Jesus
 | 1     | Bucket Sort (72)  | Comb Sort (129)                                                         | Cocktail Sort (154)   | Bubble Sort (180)    | Selection Sort (190) |
 | 2     | Bucket Sort (70)  | Bubble/Cocktail/Gnome/Comb/Selection (19-20-70-110-190) → melhor Bucket | -                     | -                    | -                    |
 | 3     | Bucket Sort (102) | Comb Sort (129)                                                         | Bubble/Cocktail (190) | Selection Sort (190) | Gnome Sort (400)     |
+
+Vetor 1: Bucket Sort percorreu menos vezes os laços, seguido de Comb Sort e Cocktail/Bubble Sort. Selection Sort teve mais iterações.
+
+Vetor 2: Bucket, Cocktail e Bubble Sort precisaram de muito poucas iterações, sendo o Bucket Sort ligeiramente melhor.
+
+Vetor 3: Bucket Sort novamente foi o mais rápido em iterações, seguido de Comb Sort; Bubble, Cocktail e Selection Sort percorreram mais laços.
 
 
 
